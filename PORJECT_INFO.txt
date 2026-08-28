@@ -1,0 +1,42 @@
+PROJECT TITLE:
+Real-Time Stock Market Dashboard
+
+DEVELOPER:
+Aditya Raj
+
+ROLL NUMBER:
+25SCS1003002468
+
+INTERNSHIP ROLE:
+Python Developer Intern
+
+ORGANIZATION:
+Codec Technologies Pvt. Ltd.
+
+INTERNSHIP DURATION:
+08/06/2026 – 08/07/2026
+
+PROGRAMMING LANGUAGE:
+Python
+
+TECHNOLOGIES:
+Streamlit
+Pandas
+Plotly
+yfinance
+
+PROJECT PURPOSE:
+To develop an interactive dashboard for monitoring stock
+market information, historical price trends, trading volume,
+and basic company information.
+
+MAIN FEATURES:
+1. Stock selection
+2. Time-period selection
+3. Current stock price
+4. Price change percentage
+5. Day high and day low
+6. Historical price chart
+7. Trading volume chart
+8. Recent market data
+9. Company information
