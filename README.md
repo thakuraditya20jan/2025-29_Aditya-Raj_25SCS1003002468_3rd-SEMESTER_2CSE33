@@ -183,18 +183,6 @@ The project can be further enhanced with the following features:
 
 The official Internship Completion Certificate is included separately in this repository.
 
-**File:** `Internship_Completion_Certificate.pdf`
-
----
-
-## 🔗 GitHub Repository
-
-This repository contains the internship documents and project-related resources submitted for academic evaluation.
-
-**Repository Link:**  
-[INSERT FINAL GITHUB REPOSITORY LINK]
-
----
 
 ## 📚 References
 
@@ -219,6 +207,6 @@ I am also thankful to IILM University, faculty members, mentors, and everyone wh
 
 ## 👨‍💻 Author
 
-**Aditya Raj**  
+**ADITYA RAJ**  
 B.Tech Computer Science Engineering  
-IILM University
+IILM University, Greater Noida
