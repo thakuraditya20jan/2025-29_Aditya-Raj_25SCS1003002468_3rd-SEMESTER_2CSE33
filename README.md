@@ -74,7 +74,7 @@ Users can select stocks such as Apple (AAPL) and NVIDIA (NVDA) and view current 
 
 ## 🔄 Project Workflow
 
-```text
+
 User
  ↓
 Select Stock
@@ -116,10 +116,13 @@ The dashboard successfully retrieves and displays stock market information throu
 
 This repository contains the documents and resources associated with the internship.
 
-- `Internship_Report.pdf`
-- `Internship_Presentation.pdf`
-- `Internship_Completion_Certificate.pdf`
-- `README.md`
+ADITYA RAJ (2468) 2CSE33 COMPLETION CERTIFICATE .pdf
+ADITYA RAJ (2468) 2CSE33 INTERNSHIP REPORT.pdf
+ADITYA RAJ (2468) 2CSE33 PPT.pdf
+README.md
+app.py
+requirements.txt
+PORJECT_INFO.txt
 
 ---
 
@@ -208,5 +211,6 @@ I am also thankful to IILM University, faculty members, mentors, and everyone wh
 ## 👨‍💻 Author
 
 **ADITYA RAJ**  
+SECTION :- 2CSE33
 B.Tech Computer Science Engineering  
 IILM University, Greater Noida
